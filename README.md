@@ -1,10 +1,10 @@
-# 🤖 Caderno Temático: Ética na Inteligência Artificial
+Ética na Inteligência Artificial
 
 > *Um projeto de estudo estruturado com NotebookLM para entender como a ética se aplica na Inteligência Artificial.*
 
 ---
 
-## 📌 Contexto e Objetivos
+Contexto e Objetivos
 
 ### Por que esse tema?
 
@@ -20,7 +20,7 @@ Escolhi o tema Ética em IA porque quero aprender e entender como a ética se ap
 
 ---
 
-## 📚 Curadoria de Fontes
+##  Curadoria de Fontes
 
 | # | Fonte | Link |
 |---|-------|------|
@@ -30,7 +30,7 @@ Escolhi o tema Ética em IA porque quero aprender e entender como a ética se ap
 
 ---
 
-## 🧠 Engenharia de Prompts e "Cicatrizes"
+##  Engenharia de Prompts e "Cicatrizes"
 
 ### Prompt 1 — O que é Ética na IA?
 
@@ -69,7 +69,7 @@ O Brasil ainda não tem uma lei específica de IA em vigor, mas o Projeto de Lei
 - Código de Defesa do Consumidor — proteção nas relações de consumo
 - Sistemas de IA divididos por nível de risco: excessivo e alto risco
 
-**⚠️ Cicatriz registrada:** A resposta mostrou que o Brasil ainda não tem uma lei definitiva — o que foi uma surpresa. Isso mostra que o tema ainda está em construção no país.
+** Cicatriz registrada:** A resposta mostrou que o Brasil ainda não tem uma lei definitiva — o que foi uma surpresa. Isso mostra que o tema ainda está em construção no país.
 
 ---
 
@@ -94,21 +94,21 @@ A IA reorganiza o mercado de trabalho em vez de simplesmente substituir pessoas.
 
 ---
 
-## 📖 Miniguia de Estudo — Entrega Final
+##  Miniguia de Estudo — Entrega Final
 
 ### 1. Resumos Estruturados
 
-#### 🔵 O que é Ética na IA?
+####  O que é Ética na IA?
 A ética na IA é o conjunto de princípios que garante que a tecnologia seja desenvolvida e usada de forma responsável, respeitando os direitos humanos, a privacidade e a dignidade das pessoas. Em vez de perguntar só o que a IA *pode* fazer, a ética pergunta o que ela *deve* fazer para o bem de todos.
 
 ---
 
-#### 🔵 Leis sobre IA no Brasil
+####  Leis sobre IA no Brasil
 O Brasil caminha para uma regulação baseada em riscos, similar ao modelo europeu. O principal texto em discussão é o **PL nº 2338/2023**, que classifica os sistemas de IA por nível de risco e garante direitos como explicação sobre decisões automatizadas e intervenção humana. Enquanto a lei não é aprovada, a **LGPD** e o **Código de Defesa do Consumidor** protegem os cidadãos.
 
 ---
 
-#### 🔵 IA, Empregos e Sociedade
+#### IA, Empregos e Sociedade
 A IA não substitui completamente os empregos — ela os reorganiza. Algumas tarefas são automatizadas, mas o julgamento humano continua essencial. Na sociedade, a IA traz avanços na medicina e na ciência, mas também riscos como discriminação algorítmica, polarização e impacto ambiental. O desafio é garantir que os benefícios superem os riscos.
 
 ---
@@ -174,13 +174,3 @@ Me dê 3 exemplos reais onde a falta de ética na IA causou problemas para as pe
 
 ---
 
-## 📈 Próximos Passos
-
-- [ ] Fazer upload das fontes no NotebookLM
-- [ ] Adicionar mais perguntas e respostas na seção de prompts
-- [ ] Criar questionário de autoavaliação
-- [ ] Publicar o repositório no GitHub
-
----
-
-*Projeto desenvolvido como caderno temático com NotebookLM.*
