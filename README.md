@@ -130,35 +130,6 @@ A IA não substitui completamente os empregos — ela os reorganiza. Algumas tar
 
 ---
 
-### 3. Prompts Reutilizáveis para Futuras Revisões
-
-#### 🔁 Para revisar conceitos
-```
-Explique [CONCEITO] de forma simples, com um exemplo real do cotidiano.
-```
-
-#### 🔁 Para comparar ideias
-```
-Qual a diferença entre [CONCEITO A] e [CONCEITO B]? Use exemplos práticos.
-```
-
-#### 🔁 Para entender leis
-```
-Como a lei [NOME DA LEI] protege as pessoas no uso da Inteligência Artificial?
-```
-
-#### 🔁 Para autoavaliação
-```
-Crie 5 perguntas sobre [TEMA] para testar meu conhecimento, com gabarito comentado.
-```
-
-#### 🔁 Para casos reais
-```
-Me dê 3 exemplos reais onde a falta de ética na IA causou problemas para as pessoas.
-```
-
----
-
 ## 🗂️ Estrutura do Repositório
 
 ```
